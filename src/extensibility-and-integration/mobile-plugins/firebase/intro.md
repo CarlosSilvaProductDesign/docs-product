@@ -5,7 +5,7 @@ tags: article-page; runtime-mobile; support-application_development; support-Mob
 
 # Firebase Plugins
 
-Firebase is a Google mobile development platform. It speeds up development many of the common development patterns for mobile apps. You can use Firebase in the OutSystems mobile through the following Firebase-based plugins:
+Firebase is a Google mobile development platform. It speeds up development on many of the common development patterns for mobile apps. You can use Firebase in the OutSystems mobile through the following Firebase-based plugins:
 
 * [Analytics Plugin](https://www.outsystems.com/forge/component-overview/10704/firebase-analytics-plugin)
 * [Crash Reporting](https://www.outsystems.com/forge/Component_Overview.aspx?ProjectId=10705)
@@ -13,7 +13,7 @@ Firebase is a Google mobile development platform. It speeds up development many 
 
 ## Prerequisites
 
-To use the Firebase plugins you meet the following requirements:
+To use the Firebase plugins make sure you meet the following requirements:
 
 * You set up a Firebase project in the [Google Firebase console](https://console.firebase.google.com/).
   
